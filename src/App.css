@@ -1,0 +1,9 @@
+.leaflet-container{
+    margin: auto;
+    width: 800px;
+    height: 800px;
+}
+.leaflet-popup-content, .leaflet-popup-content-wrapper, .leaflet-popup-tip{
+    background-color: black;
+    color: white
+}
